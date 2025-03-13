@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @decadelmao
+- 👀 I’m interested in Python
+- ⚡ Fun fact: I like github
